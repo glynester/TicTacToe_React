@@ -1,5 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+/src/codebits+bobs
+/src/index(with_notes).js
+/src/index(tut_solution).js
+
 # dependencies
 /node_modules
 /.pnp
